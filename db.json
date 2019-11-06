@@ -1,7 +1,7 @@
 {
   "users":[
-    { "id": 1, "name": "Filippo Rigacci",     "age": 51, "gender": "M", "height"=170},
-    { "id": 2, "name": "Nadia Zanieri",       "age": 41, "gender": "F", "height"=160},
-    { "id": 3, "name": "Salvatore Azzinnari", "age": 38, "gender": "T", "height"=175}
+    { "id": 1, "name": "Filippo Rigacci",     "age": 51, "gender": "M", "height": 170},
+    { "id": 2, "name": "Nadia Zanieri",       "age": 41, "gender": "F", "height": 160},
+    { "id": 3, "name": "Salvatore Azzinnari", "age": 38, "gender": "T", "height": 175}
   ]
 }
